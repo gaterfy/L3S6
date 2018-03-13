@@ -1,0 +1,9 @@
+http://rmod-pharo-mooc.lille.inria.fr/MOOC/WebPortal/co/content_13.html
+
+
+http://rmod-pharo-mooc.lille.inria.fr/MOOC/Slides/Week1/C019-W1S05-PharoSyntaxInANutshell.pdf
+
+
+http://blog.openinworld.com/2017/06/evening-with-pharo-esp32/
+
+http://astares.blogspot.fr/2012/02/play-with-arduino-and-pharo.html
